@@ -4,7 +4,7 @@ Hello Linode candidate! We are constantly looking for the best candidates, and w
 
 # The Challenge
 
-Weather - it's all the rage these days. Kids, teenagers, adults and even old folks are finding themselves checking it out. At Linode we've discovered that, occassionally,
+Weather -- it's all the rage these days. Kids, teenagers, adults and even old folks are finding themselves checking it out. At Linode we've discovered that, occassionally,
 weather (RESTful) services aren't entirely accurate. We think they are in dire need of TESTING!
 
 # Instructions 
@@ -13,9 +13,9 @@ weather (RESTful) services aren't entirely accurate. We think they are in dire n
 
 * Do not spend more than 2 hours on this challenge.
 
-* When you have completed the challenge, Submit a PR to this repo and cc. @patthiel and @dorthu. 
+* Please provide a script/dockerfile or written instructions on how to run your test suite.
 
-* Also please provide a script/dockerfile or written instructions on how to run your test suite.
+* When you have completed the challenge, Submit your project in a zip file attachment to kwilson@linode.com. 
 
 ## Test Case 1:
 
