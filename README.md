@@ -11,7 +11,7 @@ weather (RESTful) services aren't entirely accurate. We think they are in dire n
 
 * In a programming language of your choice, implement a test framework with a spec that tests the below test cases for the Dark Sky API. The API documentation is found [here](https://darksky.net/dev/docs). (*Note*: You will need to [register](https://darksky.net/dev/register) first in order to receive an API Key). 
 
-* Do not spend more than 2 hours on this challenge.
+* Do not spend more than 2 hours on this challenge, and do not publish it to public Github.
 
 * Please provide a script/dockerfile or written instructions on how to run your test suite.
 
@@ -32,3 +32,7 @@ weather (RESTful) services aren't entirely accurate. We think they are in dire n
 ## Test Case 4
 
 * Test that the Response Time for a forecast request is less than 750ms
+
+## Test Case 5
+
+* Think about how you might test forecast request errors and create a test accordingly.
