@@ -1,11 +1,11 @@
 # Testing @ Linode
 
-Hello Linode candidate! We are constantly looking for the best candidates, and we have found that, for QA related roles, the usual technical aptitude tests are not indicative of a candidate's success in the role. Instead, we've come up with a small project that will allow you to more freely demonstrate your abilities as a test engineer!
+Hello Linode candidate! We are constantly looking for the best people and we've found, for test engineers, the usual rigid technical aptitude tests are not indicative of a candidate's success in the role. Instead, we've come up with a small project that will allow you to more freely demonstrate your abilities as a test engineer!
 
 # The Challenge
 
-Weather -- it's all the rage these days. Kids, teenagers, adults and even old folks are finding themselves checking it out. At Linode we've discovered that, occassionally,
-weather (RESTful) services aren't entirely accurate. We think they are in dire need of TESTING!
+Weather -- it's all the rage these days. Kids, teenagers, adults and even old folks are finding themselves checking it out. At Linode we care about the CLOUD, and we've discovered that, occassionally,
+weather (RESTful) services aren't entirely reliable. We think they are in dire need of TESTING!
 
 # Instructions 
 
@@ -36,3 +36,7 @@ weather (RESTful) services aren't entirely accurate. We think they are in dire n
 ## Test Case 5
 
 * Think about how you might test forecast request errors and create a test accordingly.
+
+## Bonus
+
+* What other tests might be appropriate here? Feel free to write them or add them as comments.
